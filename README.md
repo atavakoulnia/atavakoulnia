@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Welcome to my Github where I upload my recent project repositories. 
+(Some repositories are set to private until the end of each academic course due to educators' request)
+
 <!--
 **atavakoulnia/atavakoulnia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
